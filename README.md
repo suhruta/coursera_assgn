@@ -1,2 +1,2 @@
-# coursera_mod2
-Webdev's module 2.
+# coursera_assgns
+Webdev's assignments.
