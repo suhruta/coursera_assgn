@@ -11,6 +11,7 @@
 	padding: 10px;
 } 
 
+
 body {
 	background-color: #d9ecd0;
 
@@ -18,9 +19,8 @@ body {
 /*Header content*/
 .nav-header {
   background-color: #c0ded9;
-  margin-bottom: 5px;
+ 
 }
-
 
 .nav-brand {
  font-size: 1.8em;
@@ -109,7 +109,7 @@ h1 {
 h2{ 
 	font-family: 'Baloo Bhaina 2', cursive;
 	color: #000000;
-	margin-top:5px;
+	margin-top: 10px;
 	margin-bottom:-15px;
  }
 
